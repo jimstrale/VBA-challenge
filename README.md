@@ -9,6 +9,8 @@ The order in which the VBA files need to be execuated is as follows:
 3. Sub Calcs
 4. Sub Calcs2
 
+Also screenshots are attached of the executed code for each of the years (2018, 2019, 2020) using the same BVA file sequence in each individual tab.
+
 I understand this probably could have been done more efficiently and with less code but that means I wrote it on my own and didn't cheat.
 
 Thank you.
